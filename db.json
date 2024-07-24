@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "my first blog",
+      "body": "l,kmjnhbgvfdsdfgklkjhgfdsdkolikjuhygtrfdewsikoijuhygtfdeskijuhgfds",
+      "author": "DevJuwon"
+    },
+    {
+      "id": "a167",
+      "title": "Oreva blog",
+      "blogBody": "this is the body",
+      "author": "Oreva"
+    },
+    {
+      "id": "5db3",
+      "title": "this is my blog new post",
+      "blogBody": "I am debugging",
+      "author": "John"
+    }
+  ]
+}
